@@ -41,7 +41,7 @@ $ pipenv run start (to start the flask webserver)
 
 ## Deploy to Heroku
 
-This template is 100% compatible with Heroku[https://www.heroku.com/], just make sure to understand and execute the following steps:
+This template is 100% compatible with Heroku[https://www.heroku.com/]
 
 ```sh
 // Install heroku
